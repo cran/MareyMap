@@ -1,6 +1,6 @@
 751419260aa954499f7abaabaa882bbe *COPYING
-a2ac9bdea5a9b79a9ddba20c17a76ebf *DESCRIPTION
-7a66529ff0b6e1479551c793ae9378c8 *NAMESPACE
+293f43a98615762357fdfd089cdab56f *DESCRIPTION
+11ac6a1c8fef6929d48f7e4f7c1c1d7c *NAMESPACE
 30f3abdb1db01cd9eff2a08bf2074a5d *R/AllClasses.R
 7d469caed6db771e79c5b58fc14f37ce *R/AllGeneric.R
 f5bdcb1eaa26c35e6861061490b09b85 *R/Interpolation.Methods.R
@@ -19,8 +19,8 @@ add5b48e2a7db81c720bccef22f4350d *R/Registry.R
 9ebc1dbcdacd812c6f866f6cd1dd94ea *R/mmslidingwindow.R
 54bb8b6d258928e591f21c45e91f8290 *R/mmspline3.R
 8a93561bb3dfb9ec4537e109b0f4ba21 *R/startMareyMapGUI.R
-676a4331b94aeb499523e969e0231f20 *build/vignette.rds
-64447c55cd48d044958f9942fd72e7b1 *data/Arabidopsis_thalianan.rda
+3cdf998d916f61831b802bdea9133a1f *build/vignette.rds
+389d0c3aba18e708abdfdda70318e9c6 *data/Arabidopsis_thaliana.rda
 842b811339736d57410e2ecc09db4c15 *data/Caenorhabditis_elegans.rda
 b91a8395256354201b98169a7cd5b8b8 *data/Drosophila_melanogaster.rda
 a64d9fef2a470fd00197a1e1322683ee *data/Homo_sapiens_female.rda
@@ -28,7 +28,7 @@ a64d9fef2a470fd00197a1e1322683ee *data/Homo_sapiens_female.rda
 7f8cc7df3a478dbfa0c6db986b2d7184 *data/Homo_sapiens_mean.rda
 23db365154ae07ee8ac9a87e724873cc *inst/about.txt
 a8ce92a202ccab1847c6ee0b77c79d28 *inst/doc/vignette.Rnw
-220107d337b57e22f6d0a12aab76bcb1 *inst/doc/vignette.pdf
+ef8d0ae548cc3436d4ccd172f4f0f4a5 *inst/doc/vignette.pdf
 e6d6b6f0d22a0cd9d9d8da84b18b9f3a *inst/gnome-settings.gif
 06884ca5c43fa558b41b4d8cf2ca2c82 *inst/gtk-add.gif
 751419260aa954499f7abaabaa882bbe *inst/license.txt
@@ -37,17 +37,17 @@ e6d6b6f0d22a0cd9d9d8da84b18b9f3a *inst/gnome-settings.gif
 46292ab84907530b9c1ff1cd8f3c55fa *inst/stock_help-agent.gif
 30679fa1e65cd6bede883d1f8b17364d *inst/stock_save.gif
 f10b15101975ef20c3eb43bd138eee9f *inst/stock_show-all.gif
-ef8b20cef07743dd511fda3574ba177a *man/Arabidopsis_thalianan.Rd
+203ca42997a101ebdc5ee04b1ab27a61 *man/Arabidopsis_thaliana.Rd
 61150974c41d330731061333be8c156c *man/Caenorhabditis_elegans.Rd
 93578d5a30d017d0731521a0b59a8e83 *man/Drosophila_melanogaster.Rd
 d1d0c437a1b7e46be2d103b1ecb41062 *man/Homo_sapiens.Rd
-557937da143893765763dbd12741a82c *man/Interpolation-class.Rd
+4e6a142f50a501d46001472b1913c98d *man/Interpolation-class.Rd
 93f9c6444446c5a9721117fdaeafe7fb *man/InterpolationParam-class.Rd
 4a67d80dedfc9a21dfc310b002ba4d2a *man/InterpolationParam-methods.Rd
 9048770cea13854f0aea3d9d8e5dcb48 *man/MMLoess-class.Rd
 06d7f36bbad4afe34d0c0c0f118fb1b3 *man/MMSlidingWindow-class.Rd
 5358de9b713cd68d1abb295707e72c56 *man/MMSpline3-class.Rd
-99c2777fdb8f1337de5788f3dde74d20 *man/MapCollection-class.Rd
+8871edadb9d03a2c20d3ddfbfa346326 *man/MapCollection-class.Rd
 121b3635d65be1c8f6a35c7b8edaa707 *man/MapCollection-methods.Rd
 cccc82174bcc63da65ec3c95d3efcf1c *man/MareyMap-class.Rd
 4f09748c10149a54b501f7779dff2325 *man/MareyMap-methods.Rd
@@ -105,6 +105,5 @@ a83f02b8dacfab67e923194605e7dcee *vignettes/start.png
 a0f0e2519051944250cd270d7de5b992 *vignettes/stock_delete.png
 7369dbb2a7616944fc158ec8f75b6a45 *vignettes/stock_save.png
 b5940e04c4484b8ea0c8b791d935ba1d *vignettes/stock_show-all.png
-c17b01a535aae496d077ba757d635bfd *vignettes/test_query.txt
+5afc01aa790f2725fbdba02152f8f123 *vignettes/test_query.txt
 a8ce92a202ccab1847c6ee0b77c79d28 *vignettes/vignette.Rnw
-a2abf59d6e0c9e74673a70f4a76cfb30 *vignettes/vignette.Rnw.backup

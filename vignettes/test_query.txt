@@ -1,4 +1,4 @@
 "set" "map" "phys"
-"Arabidopsis_thalianan" "Chromosome 1" 3.1e+07
-"Arabidopsis_thalianan" "Chromosome 1" 12287456
-"Arabidopsis_thalianan" "Chromosome 1" 44kb+564
+"Arabidopsis_thaliana" "Chromosome 1" 3.1e+07
+"Arabidopsis_thaliana" "Chromosome 1" 12287456
+"Arabidopsis_thaliana" "Chromosome 1" 44kb+564

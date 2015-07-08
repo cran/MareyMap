@@ -8,11 +8,13 @@
 \alias{interpolate,Interpolation,MareyMap-method}
 \alias{userParam,Interpolation-method}
 \alias{query,Interpolation,integer-method}
+\alias{query,Interpolation,numeric-method}
 \alias{argList,Interpolation-method}
 \alias{plot,MareyMap,Interpolation-method}
 \alias{plotModel,Interpolation-method}
 \alias{plotRate,Interpolation-method}
-
+\alias{name<-,Interpolation-method}
+\alias{name,Interpolation-method}
 \alias{rates<-,Interpolation-method}
 \alias{rates,Interpolation-method}
 \alias{visible<-,Interpolation-method}

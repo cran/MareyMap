@@ -1,7 +1,13 @@
-import(tkrplot)
-import(tcltk)
-importFrom(graphics, plot)
-importFrom(tools, file_ext)
+import("tkrplot")
+import("tcltk")
+importFrom("graphics", "abline", "layout", "layout.show", "par", "plot", "points")
+importFrom("grDevices", "dev.off", "jpeg", "pdf", "png", "postscript", "rainbow")
+importFrom("methods", "as", "is", "new")
+importFrom("stats", "lm", "loess", "na.exclude", "predict", "runif")
+importFrom("tools", "file_ext")
+importFrom("utils", "read.table", "write.table")
+
+
 
 exportClasses("Interpolation")
 exportMethods("name","rates","visible","color","persistent",

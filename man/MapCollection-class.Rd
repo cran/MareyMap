@@ -10,6 +10,7 @@
 \alias{$,MapCollection-method}
 \alias{+,MapCollection,MareyMap-method}
 \alias{+,MapCollection,MapSet-method}
+\alias{+,MapCollection,MapCollection-method}
 \alias{-,MapCollection,character-method}
 \alias{coerce,MapCollection,data.frame-method}
 \alias{setNames,MapCollection-method}
