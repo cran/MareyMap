@@ -120,7 +120,7 @@ setMethod("interpolate", signature(object = "MMSpline3", map = "MareyMap"),	func
 	valgen <- geneticDistances(map)[which(markerValidity(map))]
 	valphys <- physicalPositions(map)[which(markerValidity(map))]
 	object@physicalPositions <- valphys
-  cl <- call("smooth.spline", x = valphys, y = valgen)
+  cl <- call("smooth.spline", x = as.vector(valphys), y = as.vector(valgen))
   if(object@type == "cross-validation") {
   	if(object@gcv)
     	cl$cv <- FALSE
@@ -169,7 +169,8 @@ setMethod("plotRate", "MMSpline3", function(object, ...) {
 	expli <- seq(from = min(object@physicalPositions), to = max(object@physicalPositions), length.out = 100)
 	cl$x <- expli / 1000000
   cl$y <- query(object, expli)
-	eval(cl)
+  invisible(cl)
+  eval(cl)
 })
 
 

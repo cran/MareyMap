@@ -1,6 +1,6 @@
 751419260aa954499f7abaabaa882bbe *COPYING
-293f43a98615762357fdfd089cdab56f *DESCRIPTION
-11ac6a1c8fef6929d48f7e4f7c1c1d7c *NAMESPACE
+265fba015dc0d3ce8d435031fc0dba37 *DESCRIPTION
+2929ff89bef73dd4c59d65a455c6949c *NAMESPACE
 30f3abdb1db01cd9eff2a08bf2074a5d *R/AllClasses.R
 7d469caed6db771e79c5b58fc14f37ce *R/AllGeneric.R
 f5bdcb1eaa26c35e6861061490b09b85 *R/Interpolation.Methods.R
@@ -17,9 +17,9 @@ def6a86c8f2e195905a2ee505463cdb7 *R/MenuBar.R
 add5b48e2a7db81c720bccef22f4350d *R/Registry.R
 44a908c0313729c3a744a00dc713dd2c *R/mmloess.R
 9ebc1dbcdacd812c6f866f6cd1dd94ea *R/mmslidingwindow.R
-54bb8b6d258928e591f21c45e91f8290 *R/mmspline3.R
+8abf60cf850287bf0505d5d7676c871c *R/mmspline3.R
 8a93561bb3dfb9ec4537e109b0f4ba21 *R/startMareyMapGUI.R
-3cdf998d916f61831b802bdea9133a1f *build/vignette.rds
+aa508209b5e48b8abfeb5624c936be28 *build/vignette.rds
 389d0c3aba18e708abdfdda70318e9c6 *data/Arabidopsis_thaliana.rda
 842b811339736d57410e2ecc09db4c15 *data/Caenorhabditis_elegans.rda
 b91a8395256354201b98169a7cd5b8b8 *data/Drosophila_melanogaster.rda
@@ -28,7 +28,7 @@ a64d9fef2a470fd00197a1e1322683ee *data/Homo_sapiens_female.rda
 7f8cc7df3a478dbfa0c6db986b2d7184 *data/Homo_sapiens_mean.rda
 23db365154ae07ee8ac9a87e724873cc *inst/about.txt
 a8ce92a202ccab1847c6ee0b77c79d28 *inst/doc/vignette.Rnw
-ef8d0ae548cc3436d4ccd172f4f0f4a5 *inst/doc/vignette.pdf
+cbbbb759fab9ee06935df96b1415e6fc *inst/doc/vignette.pdf
 e6d6b6f0d22a0cd9d9d8da84b18b9f3a *inst/gnome-settings.gif
 06884ca5c43fa558b41b4d8cf2ca2c82 *inst/gtk-add.gif
 751419260aa954499f7abaabaa882bbe *inst/license.txt
