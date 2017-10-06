@@ -1,6 +1,6 @@
 751419260aa954499f7abaabaa882bbe *COPYING
-f80fc3e8931f00fd7cf4cb96aa5dc801 *DESCRIPTION
-2929ff89bef73dd4c59d65a455c6949c *NAMESPACE
+2d69699fe6a010ff7d041ddcca38d86b *DESCRIPTION
+b76672d2d49440b8b7bf52e24a182c4e *NAMESPACE
 30f3abdb1db01cd9eff2a08bf2074a5d *R/AllClasses.R
 7d469caed6db771e79c5b58fc14f37ce *R/AllGeneric.R
 f5bdcb1eaa26c35e6861061490b09b85 *R/Interpolation.Methods.R
@@ -12,14 +12,14 @@ f5bdcb1eaa26c35e6861061490b09b85 *R/Interpolation.Methods.R
 bb3d3a31c1cb277d4445d1c25e367198 *R/MapSet.Methods.R
 6558c9b92e4f3555a0a2108320bbe66c *R/MareyMap.Methods.R
 7881a2a8db0f8b2eb1c0d27a5ee6a17c *R/MarkerInfo.R
-f78c363ccc41fa1e4585100525b00043 *R/MenuBar.R
+cfd952a8c068bbc94fddd4d2ce68e5f2 *R/MenuBar.R
 8ebcdbe1568b58ccc308155cf2427682 *R/PlotArea.R
 add5b48e2a7db81c720bccef22f4350d *R/Registry.R
 44a908c0313729c3a744a00dc713dd2c *R/mmloess.R
 9ebc1dbcdacd812c6f866f6cd1dd94ea *R/mmslidingwindow.R
 8abf60cf850287bf0505d5d7676c871c *R/mmspline3.R
 8a93561bb3dfb9ec4537e109b0f4ba21 *R/startMareyMapGUI.R
-57119b5adf933b7d11152629de0003a4 *build/vignette.rds
+cb2a5126df20a81228063f7b49fd1fa9 *build/vignette.rds
 389d0c3aba18e708abdfdda70318e9c6 *data/Arabidopsis_thaliana.rda
 842b811339736d57410e2ecc09db4c15 *data/Caenorhabditis_elegans.rda
 b91a8395256354201b98169a7cd5b8b8 *data/Drosophila_melanogaster.rda
@@ -27,8 +27,8 @@ a64d9fef2a470fd00197a1e1322683ee *data/Homo_sapiens_female.rda
 4a9b5abb1b1b0940c233f3b2f1816377 *data/Homo_sapiens_male.rda
 7f8cc7df3a478dbfa0c6db986b2d7184 *data/Homo_sapiens_mean.rda
 23db365154ae07ee8ac9a87e724873cc *inst/about.txt
-a4fc1c97a7cc505b75fc6af334a0c760 *inst/doc/vignette.Rnw
-7fe7206ab8be24b97a2b594215419903 *inst/doc/vignette.pdf
+506912ebe1587cd8643602e467489e99 *inst/doc/vignette.Rnw
+af2db2c479f71fa89aa0bb56b2d61a1c *inst/doc/vignette.pdf
 e6d6b6f0d22a0cd9d9d8da84b18b9f3a *inst/gnome-settings.gif
 06884ca5c43fa558b41b4d8cf2ca2c82 *inst/gtk-add.gif
 751419260aa954499f7abaabaa882bbe *inst/license.txt
@@ -107,4 +107,4 @@ a0f0e2519051944250cd270d7de5b992 *vignettes/stock_delete.png
 b5940e04c4484b8ea0c8b791d935ba1d *vignettes/stock_show-all.png
 5afc01aa790f2725fbdba02152f8f123 *vignettes/test_query.txt
 4b7795e0d385e34729c51308a4cba855 *vignettes/vignette-concordance.tex
-a4fc1c97a7cc505b75fc6af334a0c760 *vignettes/vignette.Rnw
+506912ebe1587cd8643602e467489e99 *vignettes/vignette.Rnw
