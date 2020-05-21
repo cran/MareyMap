@@ -1,12 +1,12 @@
 751419260aa954499f7abaabaa882bbe *COPYING
-2d69699fe6a010ff7d041ddcca38d86b *DESCRIPTION
+d77544d5ffed568b8ad7d36db90c471c *DESCRIPTION
 b76672d2d49440b8b7bf52e24a182c4e *NAMESPACE
 30f3abdb1db01cd9eff2a08bf2074a5d *R/AllClasses.R
 7d469caed6db771e79c5b58fc14f37ce *R/AllGeneric.R
 f5bdcb1eaa26c35e6861061490b09b85 *R/Interpolation.Methods.R
 2bcb17e36d8d662a7897f629681505b9 *R/InterpolationList.R
 2d3f60e82454b43cc31ef03e4885c048 *R/InterpolationParam.Methods.R
-9dc2f1e07dd296f2b6af0348e4f5a806 *R/LocalRateQuery.R
+c22b9cec0c51b609a6e0c4dd99c3fcdb *R/LocalRateQuery.R
 7e610bac3dde2e4992cffc216f944db6 *R/MapCollection.Methods.R
 1f30b50ce2c3a525dfa7daaae14d8ca7 *R/MapList.R
 bb3d3a31c1cb277d4445d1c25e367198 *R/MapSet.Methods.R
@@ -19,7 +19,7 @@ add5b48e2a7db81c720bccef22f4350d *R/Registry.R
 9ebc1dbcdacd812c6f866f6cd1dd94ea *R/mmslidingwindow.R
 8abf60cf850287bf0505d5d7676c871c *R/mmspline3.R
 8a93561bb3dfb9ec4537e109b0f4ba21 *R/startMareyMapGUI.R
-cb2a5126df20a81228063f7b49fd1fa9 *build/vignette.rds
+60a1835f8fe7a7d6ed698dc6953bf8f2 *build/vignette.rds
 389d0c3aba18e708abdfdda70318e9c6 *data/Arabidopsis_thaliana.rda
 842b811339736d57410e2ecc09db4c15 *data/Caenorhabditis_elegans.rda
 b91a8395256354201b98169a7cd5b8b8 *data/Drosophila_melanogaster.rda
@@ -28,7 +28,7 @@ a64d9fef2a470fd00197a1e1322683ee *data/Homo_sapiens_female.rda
 7f8cc7df3a478dbfa0c6db986b2d7184 *data/Homo_sapiens_mean.rda
 23db365154ae07ee8ac9a87e724873cc *inst/about.txt
 506912ebe1587cd8643602e467489e99 *inst/doc/vignette.Rnw
-af2db2c479f71fa89aa0bb56b2d61a1c *inst/doc/vignette.pdf
+2fd91d013754e2db3612509af72d5e32 *inst/doc/vignette.pdf
 e6d6b6f0d22a0cd9d9d8da84b18b9f3a *inst/gnome-settings.gif
 06884ca5c43fa558b41b4d8cf2ca2c82 *inst/gtk-add.gif
 751419260aa954499f7abaabaa882bbe *inst/license.txt
