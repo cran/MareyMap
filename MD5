@@ -1,5 +1,5 @@
 751419260aa954499f7abaabaa882bbe *COPYING
-9c45e8669d3167fca06c845e7d97897c *DESCRIPTION
+5056beea236b8995b52d03a308e9b903 *DESCRIPTION
 06dbce327812c4bed205fef76f4a127f *NAMESPACE
 30f3abdb1db01cd9eff2a08bf2074a5d *R/AllClasses.R
 7d469caed6db771e79c5b58fc14f37ce *R/AllGeneric.R
@@ -19,7 +19,7 @@ add5b48e2a7db81c720bccef22f4350d *R/Registry.R
 9ebc1dbcdacd812c6f866f6cd1dd94ea *R/mmslidingwindow.R
 8abf60cf850287bf0505d5d7676c871c *R/mmspline3.R
 8a93561bb3dfb9ec4537e109b0f4ba21 *R/startMareyMapGUI.R
-960601abdaaeee07bb9e6fbdc087028e *build/vignette.rds
+d25363b4bf2cf84c981cba8d2f56f6d8 *build/vignette.rds
 389d0c3aba18e708abdfdda70318e9c6 *data/Arabidopsis_thaliana.rda
 842b811339736d57410e2ecc09db4c15 *data/Caenorhabditis_elegans.rda
 b91a8395256354201b98169a7cd5b8b8 *data/Drosophila_melanogaster.rda
@@ -27,8 +27,8 @@ a64d9fef2a470fd00197a1e1322683ee *data/Homo_sapiens_female.rda
 4a9b5abb1b1b0940c233f3b2f1816377 *data/Homo_sapiens_male.rda
 7f8cc7df3a478dbfa0c6db986b2d7184 *data/Homo_sapiens_mean.rda
 3ed5dd0e5c40e3eed47c8fb03c057ed8 *inst/CITATION
-7f62f1385bcfdbb4e33e68657189fa0e *inst/doc/vignette.Rnw
-f4dee35758920bd7d025c8bcc16daaab *inst/doc/vignette.pdf
+c818041135d800cdfd69022e15293569 *inst/doc/vignette.Rnw
+9763540b9427e14281b1f1004729c619 *inst/doc/vignette.pdf
 e6d6b6f0d22a0cd9d9d8da84b18b9f3a *inst/gnome-settings.gif
 06884ca5c43fa558b41b4d8cf2ca2c82 *inst/gtk-add.gif
 751419260aa954499f7abaabaa882bbe *inst/license.txt
@@ -106,4 +106,4 @@ a0f0e2519051944250cd270d7de5b992 *vignettes/stock_delete.png
 7369dbb2a7616944fc158ec8f75b6a45 *vignettes/stock_save.png
 b5940e04c4484b8ea0c8b791d935ba1d *vignettes/stock_show-all.png
 5afc01aa790f2725fbdba02152f8f123 *vignettes/test_query.txt
-7f62f1385bcfdbb4e33e68657189fa0e *vignettes/vignette.Rnw
+c818041135d800cdfd69022e15293569 *vignettes/vignette.Rnw

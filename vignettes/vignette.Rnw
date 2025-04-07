@@ -25,6 +25,7 @@
 Laurent Guéguen and Gabriel Marais}
 
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 \maketitle
 
 \texttt{MareyMap} is an \texttt{R} package to estimate local recombination rates along the genome. 
